@@ -1,0 +1,13 @@
+name: settler
+version: 0.1.0
+
+authors:
+  - Andrzej J Skalski <njskalski@google.com>
+
+targets:
+  settler:
+    main: src/settler.cr
+
+crystal: 0.33.0
+
+license: MIT
